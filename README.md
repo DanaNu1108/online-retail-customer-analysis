@@ -42,4 +42,4 @@ The notebook includes a commented section with DBSCAN setup for optional experim
 
 This project is part of my data science portfolio. For an overview, additional insights, and visual structure, please refer to the project page on Notion:
 
-[View on Notion]([https://www.notion.so/your-notion-link-here](https://dull-ironclad-eda.notion.site/Final-Project-1ee831c6a0ea804286d7f93dc17617c7))
+[View on Notion](https://dull-ironclad-eda.notion.site/Final-Project-1ee831c6a0ea804286d7f93dc17617c7)
